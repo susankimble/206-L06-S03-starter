@@ -399,7 +399,8 @@ section#align-items-section {
 }
 
 .align-items-center-parent-container {
-  /* place your code here */
+  display: flex;
+  align-items: center;
   justify-content: space-evenly;
 }
 
